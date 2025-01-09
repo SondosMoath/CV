@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>الفواكه</title>
+</head>
+<body> 
+    <h1><i><u><b>الفواكه</b></u></i></h1>
+    <hr>
+    <ul><li>انواع الفواكه</li></ul>
+    <h3>الرمان</h3>
+    <p> يعد الرمان من اكثر الفواكه غني بالفيتامينات والمعادن ومضادات الاكسدة</p>
+    <p>:فوائد الرمان</p>
+    <!--قائمة مرتبة-->
+    <ol><li>تعزيز صحة الفم والاسنان </li><li>جيد لصحة القلب</li><li>المساهمة في الوقاية من السرطان وفقر الدم</li></ol>
+    <h3>البطيخ</h3>
+    <p>في فصل الصيف يصبح أكل البطيخ اساسيا لما فيه من فوائد اقلها انه خفيف على المعد
+    </p>
+    <h3>فاكهه التنين</h3>
+    <p> .المعروف ايضا بملكة هونولولو التي تفتح ازهارها في الليل فقط<mark>( Hylocereus)</mark>  فاكهة التنين (دراغون فروت ) هي فاكهه استوائيه تنمو على صبار </p> 
+     <a href="s.html">test</a><br><br>
+    <img src="jj.jpg.jpg"width=300><br><br>
+    <video src="mm.mp4.mp4" controls width="400"height="500"></video>
+    <form><input type="email>"</form>
+    <label>email</label>
+    <input type="submit"value="اضغط">
+</body>
+</html>
+<link rel="stylesheet" type="text/css" href="so.css">
